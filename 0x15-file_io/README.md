@@ -1,0 +1,1 @@
+Project done during Software Engineering studies at ALX School. It aims to learn about how to handle files (open, close, read and write), file descriptors, system calls and file permissions in C language.
